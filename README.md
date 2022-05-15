@@ -10,6 +10,7 @@ To run the application please do the following:
        login Id : root
        password : welcome
   7. Run the sql files for stored procedures and triggers.
+  8. Run main.py
 
 
 
